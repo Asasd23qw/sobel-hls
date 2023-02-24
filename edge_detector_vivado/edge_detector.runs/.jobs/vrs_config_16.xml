@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="design_1_processing_system7_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_alinx_ov5640_0_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_alinx_ov5640_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_axis_subset_converter_0_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_axis_subset_converter_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_mem2stream_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_mem2stream_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_stream2mem_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_stream2mem_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_axi_smc_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_axi_smc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_v_tc_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_v_tc_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_v_axi4s_vid_out_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_v_axi4s_vid_out_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_i2c_extender_0_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_i2c_extender_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_axi_dynclk_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_axi_dynclk_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_edge_detector_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_edge_detector_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rst_ps7_0_142M_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_rst_ps7_0_142M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rst_ps7_0_100M_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_rst_ps7_0_100M_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_hdmi_rst_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_hdmi_rst_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xlconstant_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_xlconstant_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_rgb2dvi_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_rgb2dvi_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_util_ds_buf_0_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_util_ds_buf_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_util_ds_buf_1_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_util_ds_buf_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_xbar_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_xbar_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_auto_cc_1_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_auto_cc_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_auto_cc_2_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_auto_cc_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="design_1_auto_cc_1_synth_1"/>
+	</Run>
+	<Run Id="design_1_auto_cc_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_auto_cc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="design_1_auto_pc_0_synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/design_1_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="design_1_processing_system7_0_0_synth_1"/>
+		<Parent Id="design_1_alinx_ov5640_0_1_synth_1"/>
+		<Parent Id="design_1_axis_subset_converter_0_1_synth_1"/>
+		<Parent Id="design_1_mem2stream_0_0_synth_1"/>
+		<Parent Id="design_1_stream2mem_0_0_synth_1"/>
+		<Parent Id="design_1_axi_smc_0_synth_1"/>
+		<Parent Id="design_1_v_tc_0_0_synth_1"/>
+		<Parent Id="design_1_v_axi4s_vid_out_0_0_synth_1"/>
+		<Parent Id="design_1_i2c_extender_0_1_synth_1"/>
+		<Parent Id="design_1_axi_dynclk_0_0_synth_1"/>
+		<Parent Id="design_1_edge_detector_0_0_synth_1"/>
+		<Parent Id="design_1_rst_ps7_0_142M_0_synth_1"/>
+		<Parent Id="design_1_rst_ps7_0_100M_1_synth_1"/>
+		<Parent Id="design_1_hdmi_rst_0_synth_1"/>
+		<Parent Id="design_1_xlconstant_0_0_synth_1"/>
+		<Parent Id="design_1_rgb2dvi_0_0_synth_1"/>
+		<Parent Id="design_1_util_ds_buf_0_0_synth_1"/>
+		<Parent Id="design_1_util_ds_buf_1_0_synth_1"/>
+		<Parent Id="design_1_xbar_1_synth_1"/>
+		<Parent Id="design_1_auto_cc_1_synth_1"/>
+		<Parent Id="design_1_auto_cc_2_synth_1"/>
+		<Parent Id="design_1_auto_cc_0_synth_1"/>
+		<Parent Id="design_1_auto_pc_0_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="F:/ax7020/2017/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="design_1_processing_system7_0_0_synth_1"/>
+		<Parent Id="design_1_alinx_ov5640_0_1_synth_1"/>
+		<Parent Id="design_1_axis_subset_converter_0_1_synth_1"/>
+		<Parent Id="design_1_mem2stream_0_0_synth_1"/>
+		<Parent Id="design_1_stream2mem_0_0_synth_1"/>
+		<Parent Id="design_1_axi_smc_0_synth_1"/>
+		<Parent Id="design_1_v_tc_0_0_synth_1"/>
+		<Parent Id="design_1_v_axi4s_vid_out_0_0_synth_1"/>
+		<Parent Id="design_1_i2c_extender_0_1_synth_1"/>
+		<Parent Id="design_1_axi_dynclk_0_0_synth_1"/>
+		<Parent Id="design_1_edge_detector_0_0_synth_1"/>
+		<Parent Id="design_1_rst_ps7_0_142M_0_synth_1"/>
+		<Parent Id="design_1_rst_ps7_0_100M_1_synth_1"/>
+		<Parent Id="design_1_hdmi_rst_0_synth_1"/>
+		<Parent Id="design_1_xlconstant_0_0_synth_1"/>
+		<Parent Id="design_1_rgb2dvi_0_0_synth_1"/>
+		<Parent Id="design_1_util_ds_buf_0_0_synth_1"/>
+		<Parent Id="design_1_util_ds_buf_1_0_synth_1"/>
+		<Parent Id="design_1_xbar_1_synth_1"/>
+		<Parent Id="design_1_auto_cc_1_synth_1"/>
+		<Parent Id="design_1_auto_cc_2_synth_1"/>
+		<Parent Id="design_1_auto_cc_0_synth_1"/>
+		<Parent Id="design_1_auto_pc_0_synth_1"/>
+	</Run>
+</Runs>
+

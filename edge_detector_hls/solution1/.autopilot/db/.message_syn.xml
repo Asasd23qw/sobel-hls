@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="RUNTIME" content="Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.022 seconds; current allocated memory: 1.089 GB." resolution=""/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1312" tag="" content="Analyzing design file &apos;edge_detector/edge_detector.cpp&apos; ..." resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3696]" key="HLS 207-3696" tag="" content="variable has incomplete type &apos;void&apos; (edge_detector/edge_detector.cpp:10:6)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-2967]" key="HLS 207-2967" tag="" content="no member named &apos;Mat&apos; in namespace &apos;hls&apos; (edge_detector/edge_detector.cpp:10:24)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-2967]" key="HLS 207-2967" tag="" content="no member named &apos;Mat&apos; in namespace &apos;hls&apos; (edge_detector/edge_detector.cpp:11:8)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1198]" key="HLS 207-1198" tag="" content="expected &apos;(&apos; for function-style cast or type construction (edge_detector/edge_detector.cpp:12:12)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3771]" key="HLS 207-3771" tag="" content="use of undeclared identifier &apos;HLS_8UC1&apos; (edge_detector/edge_detector.cpp:10:40)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3771]" key="HLS 207-3771" tag="" content="use of undeclared identifier &apos;dst&apos; (edge_detector/edge_detector.cpp:10:51)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3771]" key="HLS 207-3771" tag="" content="use of undeclared identifier &apos;HLS_8UC1&apos; (edge_detector/edge_detector.cpp:11:24)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3771]" key="HLS 207-3771" tag="" content="use of undeclared identifier &apos;src&apos; (edge_detector/edge_detector.cpp:11:35)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1263]" key="HLS 207-1263" tag="" content="expected &apos;;&apos; after top level declarator (edge_detector/edge_detector.cpp:12:27)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-5501]" key="HLS 207-5501" tag="" content="&apos;#pragma HLS&apos; is only allowed in function scope (edge_detector/edge_detector.cpp:19:9)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3796]" key="HLS 207-3796" tag="" content="unknown type name &apos;src&apos; (edge_detector/edge_detector.cpp:20:2)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1228]" key="HLS 207-1228" tag="" content="expected unqualified-id (edge_detector/edge_detector.cpp:20:6)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1228]" key="HLS 207-1228" tag="" content="expected unqualified-id (edge_detector/edge_detector.cpp:21:4)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1228]" key="HLS 207-1228" tag="" content="expected unqualified-id (edge_detector/edge_detector.cpp:25:4)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-3796]" key="HLS 207-3796" tag="" content="unknown type name &apos;dst&apos; (edge_detector/edge_detector.cpp:36:4)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1228]" key="HLS 207-1228" tag="" content="expected unqualified-id (edge_detector/edge_detector.cpp:36:8)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1237]" key="HLS 207-1237" tag="" content="extraneous closing brace (&apos;}&apos;) (edge_detector/edge_detector.cpp:37:3)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1237]" key="HLS 207-1237" tag="" content="extraneous closing brace (&apos;}&apos;) (edge_detector/edge_detector.cpp:38:2)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-1237]" key="HLS 207-1237" tag="" content="extraneous closing brace (&apos;}&apos;) (edge_detector/edge_detector.cpp:39:1)" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 207-59]" key="HLS 207-59" tag="" content="too many errors emitted, stopping now" resolution=""/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="RUNTIME" content="Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.958 seconds; current allocated memory: 0.312 MB." resolution=""/>
+</Messages>

@@ -1,0 +1,60 @@
+<xilinx:hls_fe_msgs>
+    <msg msg_groups="" msg_id="207-3696" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:10:6" msg_body="variable has incomplete type 'void'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-2967" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:10:24" msg_body="no member named 'Mat' in namespace 'hls'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-2967" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:11:8" msg_body="no member named 'Mat' in namespace 'hls'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1198" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:12:12" msg_body="expected '(' for function-style cast or type construction">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3771" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:10:40" msg_body="use of undeclared identifier 'HLS_8UC1'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3771" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:10:51" msg_body="use of undeclared identifier 'dst'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3771" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:11:24" msg_body="use of undeclared identifier 'HLS_8UC1'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3771" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:11:35" msg_body="use of undeclared identifier 'src'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1263" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:12:27" msg_body="expected ';' after top level declarator">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-5501" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:19:9" msg_body="'#pragma HLS' is only allowed in function scope">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3796" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:20:2" msg_body="unknown type name 'src'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1228" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:20:6" msg_body="expected unqualified-id">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1228" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:21:4" msg_body="expected unqualified-id">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1228" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:25:4" msg_body="expected unqualified-id">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-3796" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:36:4" msg_body="unknown type name 'dst'">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1228" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:36:8" msg_body="expected unqualified-id">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1237" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:37:3" msg_body="extraneous closing brace ('}')">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1237" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:38:2" msg_body="extraneous closing brace ('}')">
+        <args/>
+    </msg>
+    <msg msg_groups="" msg_id="207-1237" msg_severity="ERROR" msg_loc="edge_detector/edge_detector.cpp:39:1" msg_body="extraneous closing brace ('}')">
+        <args/>
+    </msg>
+</xilinx:hls_fe_msgs>
+

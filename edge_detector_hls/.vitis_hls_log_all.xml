@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog>
+        <logs message="ERROR: [HLS 207-59] too many errors emitted, stopping now" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.214+0800"/>
+        <logs message="ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:39:1)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.205+0800"/>
+        <logs message="ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:38:2)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.198+0800"/>
+        <logs message="ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:37:3)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.192+0800"/>
+        <logs message="ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:36:8)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.184+0800"/>
+        <logs message="ERROR: [HLS 207-3796] unknown type name 'dst' (edge_detector/edge_detector.cpp:36:4)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.177+0800"/>
+        <logs message="ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:25:4)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.169+0800"/>
+        <logs message="ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:21:4)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.160+0800"/>
+        <logs message="ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:20:6)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.152+0800"/>
+        <logs message="ERROR: [HLS 207-3796] unknown type name 'src' (edge_detector/edge_detector.cpp:20:2)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.145+0800"/>
+        <logs message="ERROR: [HLS 207-5501] '#pragma HLS' is only allowed in function scope (edge_detector/edge_detector.cpp:19:9)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.139+0800"/>
+        <logs message="ERROR: [HLS 207-1263] expected ';' after top level declarator (edge_detector/edge_detector.cpp:12:27)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.132+0800"/>
+        <logs message="ERROR: [HLS 207-3771] use of undeclared identifier 'src' (edge_detector/edge_detector.cpp:11:35)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.125+0800"/>
+        <logs message="ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:11:24)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.117+0800"/>
+        <logs message="ERROR: [HLS 207-3771] use of undeclared identifier 'dst' (edge_detector/edge_detector.cpp:10:51)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.111+0800"/>
+        <logs message="ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:10:40)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.104+0800"/>
+        <logs message="ERROR: [HLS 207-1198] expected '(' for function-style cast or type construction (edge_detector/edge_detector.cpp:12:12)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.098+0800"/>
+        <logs message="ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:11:8)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.092+0800"/>
+        <logs message="ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:10:24)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.086+0800"/>
+        <logs message="ERROR: [HLS 207-3696] variable has incomplete type 'void' (edge_detector/edge_detector.cpp:10:6)" projectName="edge_detector" solutionName="solution1" date="2023-01-30T20:41:21.080+0800"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

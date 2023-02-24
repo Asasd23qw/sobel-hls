@@ -1,0 +1,53 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Jan 31 20:08:38 2023
+# Process ID: 41468
+# Current directory: F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4924 F:\原d盘文件\迅雷下载\AX7020_2017.4.1\course_s3_hls\vivado\10_edge_detector\edge_detector.xpr
+# Log file: F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/vivado.log
+# Journal file: F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.xpr
+update_compile_order -fileset sources_1
+open_bd_design {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.srcs/sources_1/bd/design_1/design_1.bd}
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/impl_1/design_1_wrapper.bit} [get_hw_devices xc7z020_1]
+set_property PROBES.FILE {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/impl_1/design_1_wrapper.ltx} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.runs/impl_1/design_1_wrapper.ltx} [get_hw_devices xc7z020_1]
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+display_hw_ila_data [ get_hw_ila_data hw_ila_data_1 -of_objects [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]]
+run_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]
+wait_on_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]
+display_hw_ila_data [upload_hw_ila_data [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]]
+run_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]
+wait_on_hw_ila [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]
+display_hw_ila_data [upload_hw_ila_data [get_hw_ilas -of_objects [get_hw_devices xc7z020_1] -filter {CELL_NAME=~"design_1_i/alinx_ov5640_0/inst/ila.ila_0_m0"}]]
+save_wave_config {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wcfg}
+save_wave_config {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wcfg}
+save_wave_config {F:/原d盘文件/迅雷下载/AX7020_2017.4.1/course_s3_hls/vivado/10_edge_detector/edge_detector.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wcfg}
+set_property PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {C:/Users/Lenovo/Desktop/design_1_wrapper.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {C:/Users/Lenovo/Desktop/design_1_wrapper.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {C:/Users/Lenovo/Desktop/design_1_wrapper.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z020_1]
+set_property PROGRAM.FILE {C:/Users/Lenovo/Desktop/top.bit} [get_hw_devices xc7z020_1]
+program_hw_devices [get_hw_devices xc7z020_1]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]

@@ -1,0 +1,84 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2021.2 (64-bit)
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7z020-clg400-2'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-2 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.022 seconds; current allocated memory: 1.090 GB.
+INFO: [HLS 200-10] Analyzing design file 'edge_detector/edge_detector.cpp' ... 
+ERROR: [HLS 207-812] 'hls_video.h' file not found (edge_detector/edge_detector.cpp:2:10)
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.377 seconds; current allocated memory: 0.000 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 3.089 seconds; peak allocated memory: 1.090 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2021.2 (64-bit)
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7z020-clg400-2'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-2 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.018 seconds; current allocated memory: 1.090 GB.
+INFO: [HLS 200-10] Analyzing design file 'edge_detector/edge_detector.cpp' ... 
+ERROR: [HLS 207-3696] variable has incomplete type 'void' (edge_detector/edge_detector.cpp:10:6)
+ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:10:24)
+ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:11:8)
+ERROR: [HLS 207-1198] expected '(' for function-style cast or type construction (edge_detector/edge_detector.cpp:12:12)
+ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:10:40)
+ERROR: [HLS 207-3771] use of undeclared identifier 'dst' (edge_detector/edge_detector.cpp:10:51)
+ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:11:24)
+ERROR: [HLS 207-3771] use of undeclared identifier 'src' (edge_detector/edge_detector.cpp:11:35)
+ERROR: [HLS 207-1263] expected ';' after top level declarator (edge_detector/edge_detector.cpp:12:27)
+ERROR: [HLS 207-5501] '#pragma HLS' is only allowed in function scope (edge_detector/edge_detector.cpp:19:9)
+ERROR: [HLS 207-3796] unknown type name 'src' (edge_detector/edge_detector.cpp:20:2)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:20:6)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:21:4)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:25:4)
+ERROR: [HLS 207-3796] unknown type name 'dst' (edge_detector/edge_detector.cpp:36:4)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:36:8)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:37:3)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:38:2)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:39:1)
+ERROR: [HLS 207-59] too many errors emitted, stopping now
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.928 seconds; current allocated memory: 0.000 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 3.204 seconds; peak allocated memory: 1.090 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2021.2 (64-bit)
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7z020-clg400-2'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7z020clg400-2 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.022 seconds; current allocated memory: 1.089 GB.
+INFO: [HLS 200-10] Analyzing design file 'edge_detector/edge_detector.cpp' ... 
+ERROR: [HLS 207-3696] variable has incomplete type 'void' (edge_detector/edge_detector.cpp:10:6)
+ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:10:24)
+ERROR: [HLS 207-2967] no member named 'Mat' in namespace 'hls' (edge_detector/edge_detector.cpp:11:8)
+ERROR: [HLS 207-1198] expected '(' for function-style cast or type construction (edge_detector/edge_detector.cpp:12:12)
+ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:10:40)
+ERROR: [HLS 207-3771] use of undeclared identifier 'dst' (edge_detector/edge_detector.cpp:10:51)
+ERROR: [HLS 207-3771] use of undeclared identifier 'HLS_8UC1' (edge_detector/edge_detector.cpp:11:24)
+ERROR: [HLS 207-3771] use of undeclared identifier 'src' (edge_detector/edge_detector.cpp:11:35)
+ERROR: [HLS 207-1263] expected ';' after top level declarator (edge_detector/edge_detector.cpp:12:27)
+ERROR: [HLS 207-5501] '#pragma HLS' is only allowed in function scope (edge_detector/edge_detector.cpp:19:9)
+ERROR: [HLS 207-3796] unknown type name 'src' (edge_detector/edge_detector.cpp:20:2)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:20:6)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:21:4)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:25:4)
+ERROR: [HLS 207-3796] unknown type name 'dst' (edge_detector/edge_detector.cpp:36:4)
+ERROR: [HLS 207-1228] expected unqualified-id (edge_detector/edge_detector.cpp:36:8)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:37:3)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:38:2)
+ERROR: [HLS 207-1237] extraneous closing brace ('}') (edge_detector/edge_detector.cpp:39:1)
+ERROR: [HLS 207-59] too many errors emitted, stopping now
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.958 seconds; current allocated memory: 0.312 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 3.21 seconds; peak allocated memory: 1.090 GB.
